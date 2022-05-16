@@ -23,7 +23,7 @@ function createWindow() {
   });
 
   // and load the index.html of the app.
-  mainWindow.loadURL("http://localhost:18420/index.aspx");
+  mainWindow.loadURL("http://a1a8-88-244-130-158.ngrok.io/index.aspx");
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
