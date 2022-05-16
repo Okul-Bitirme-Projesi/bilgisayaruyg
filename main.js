@@ -66,7 +66,7 @@ function showNotification() {
 app.on("ready", async () => {
   await createWindow();
   await createMainMenu();
-  await showNotification();
+  //await showNotification();
 });
 
 // Quit when all windows are closed.
